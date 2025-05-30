@@ -1,5 +1,5 @@
 ---
-name: Tasks
+name: Tasks - Criar Pagina da Computação
 about: "[Tasks]"
 title: "[Tasks]"
 labels: ''
